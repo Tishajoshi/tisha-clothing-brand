@@ -12,7 +12,7 @@ A modern, responsive, and elegant landing page for a fictional clothing brand �
 - 📬 Newsletter and contact forms (with dummy JS alerts)
 - 🔥 Scroll-based animations
 - 🌙 Modern design using custom CSS variables and shadows
-- 
+ 
 
 ## 🚀 Live Demo
 
