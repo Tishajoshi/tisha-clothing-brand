@@ -16,7 +16,7 @@ A modern, responsive, and elegant landing page for a fictional clothing brand �
 
 ## 🚀 Live Demo
 
-You can deploy using 
+You can deploy using [https://tishajoshi.github.io/tisha-clothing-brand/]
 
 ## 🛠️ Built With
 
@@ -34,13 +34,6 @@ tisha-clothing-brand/
 ├── styles.css # Styling file
 ├── script.js # JavaScript logic
 └── README.md # This file
-
-
-## 📬 How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/tisha-clothing-brand.git
 
 
 
